@@ -1,0 +1,4 @@
+com\gl\bookservice\BookServiceApplication.class
+Test.class
+com\gl\bookservice\controller\BookController.class
+com\gl\bookservice\controller\Test.class
